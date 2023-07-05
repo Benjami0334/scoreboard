@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: 'Oxanium', cursive;
+    text-align: center;
+    background: #14213d;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.increase-btn {
+    width: 40px;
+    background: #14213d;
+    border-radius: 6px;
+    padding: 8px 5px 8px 5px;
+    border: 1px solid lightgrey;
+    color: lightblue;
+    margin: 5px 3px;
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 18px;
+
+}
+
+#home-team {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 5px 5px 15px 5px;
+    border-radius: 4px;
+    padding: 4px 10px 4px 20px;
+}
+
+#guest-team {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 5px 5px 15px 5px;
+    border-radius: 4px;
+    padding: 4px 10px 4px 20px
+}
